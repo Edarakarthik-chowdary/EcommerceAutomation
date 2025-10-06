@@ -1,0 +1,10 @@
+
+<suite name="Ecommerce Suite" parallel="false">
+    <test name="Ecommerce Tests">
+        <classes>
+            <class name="com.qa.testcases.LoginTest"/>
+            <class name="com.qa.testcases.CartTest"/>
+            <class name="com.qa.testcases.AddMultipleItemsTest"/>
+        </classes>
+    </test>
+</suite>
